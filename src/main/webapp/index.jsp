@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to Maruti WebApplication</title>
+    <title>Welcome to Maruti site</title>
     <style>
         /* Reset some default styles */
         body, h1, p {
