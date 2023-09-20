@@ -1,0 +1,6 @@
+read a
+echo "Welcome to Linux"
+read b
+echo "print the name "
+let sum=$(($a+$b))
+echo "sum is $sum"
